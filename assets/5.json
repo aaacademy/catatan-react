@@ -2,7 +2,7 @@
   "dna": "01000000000000",
   "name": "#5",
   "description": "This is an NFT made by the coolest generative code.",
-  "image": "https://hashlips/nft/5",
+  "image": "https://raw.githubusercontent.com/aaacademy/catatan-react/master/assets/1.png",
   "edition": 5,
   "date": 1631257522569,
   "attributes": [
