@@ -3,7 +3,7 @@
     "dna": "02050203020402",
     "name": "#1",
     "description": "This is an NFT made by the coolest generative code.",
-    "image": "https://hashlips/nft/1",
+    "image": "https://raw.githubusercontent.com/aaacademy/catatan-react/master/assets/1.png",
     "edition": 1,
     "date": 1631257520770,
     "attributes": [
@@ -41,7 +41,7 @@
     "dna": "02040202020402",
     "name": "#2",
     "description": "This is an NFT made by the coolest generative code.",
-    "image": "https://hashlips/nft/2",
+    "image": "https://raw.githubusercontent.com/aaacademy/catatan-react/master/assets/2.png",
     "edition": 2,
     "date": 1631257521161,
     "attributes": [
@@ -79,7 +79,7 @@
     "dna": "02040203020402",
     "name": "#3",
     "description": "This is an NFT made by the coolest generative code.",
-    "image": "https://hashlips/nft/3",
+    "image": "https://raw.githubusercontent.com/aaacademy/catatan-react/master/assets/3.png",
     "edition": 3,
     "date": 1631257521696,
     "attributes": [
@@ -117,7 +117,7 @@
     "dna": "01020101010201",
     "name": "#4",
     "description": "This is an NFT made by the coolest generative code.",
-    "image": "https://hashlips/nft/4",
+    "image": "https://raw.githubusercontent.com/aaacademy/catatan-react/master/assets/4.png",
     "edition": 4,
     "date": 1631257522212,
     "attributes": [
@@ -155,7 +155,7 @@
     "dna": "01000000000000",
     "name": "#5",
     "description": "This is an NFT made by the coolest generative code.",
-    "image": "https://hashlips/nft/5",
+    "image": "https://raw.githubusercontent.com/aaacademy/catatan-react/master/assets/5.png",
     "edition": 5,
     "date": 1631257522569,
     "attributes": [
