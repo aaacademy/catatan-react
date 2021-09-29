@@ -1,0 +1,38 @@
+{
+  "dna": "01020101010201",
+  "name": "#4",
+  "description": "This is an NFT made by the coolest generative code.",
+  "image": "https://hashlips/nft/4",
+  "edition": 4,
+  "date": 1631257522212,
+  "attributes": [
+    {
+      "name": "base_head_2 rare",
+      "rarity": "rare"
+    },
+    {
+      "name": "hair_hijab_1 rare",
+      "rarity": "rare"
+    },
+    {
+      "name": "eye_2 rare",
+      "rarity": "rare"
+    },
+    {
+      "name": "nose_4 rare",
+      "rarity": "rare"
+    },
+    {
+      "name": "mouth_2 rare",
+      "rarity": "rare"
+    },
+    {
+      "name": "acc_head_2 rare",
+      "rarity": "rare"
+    },
+    {
+      "name": "acc_face_2 rare",
+      "rarity": "rare"
+    }
+  ]
+}

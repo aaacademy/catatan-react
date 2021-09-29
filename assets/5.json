@@ -1,0 +1,38 @@
+{
+  "dna": "01000000000000",
+  "name": "#5",
+  "description": "This is an NFT made by the coolest generative code.",
+  "image": "https://hashlips/nft/5",
+  "edition": 5,
+  "date": 1631257522569,
+  "attributes": [
+    {
+      "name": "base_head_2 rare",
+      "rarity": "super_rare"
+    },
+    {
+      "name": "hair_women_1 super rare",
+      "rarity": "super_rare"
+    },
+    {
+      "name": "eye_3 super rare",
+      "rarity": "super_rare"
+    },
+    {
+      "name": "nose_3 super rare",
+      "rarity": "super_rare"
+    },
+    {
+      "name": "mouth_3 super rare",
+      "rarity": "super_rare"
+    },
+    {
+      "name": "acc_head_3 super rare",
+      "rarity": "super_rare"
+    },
+    {
+      "name": "acc_face_3 super rare",
+      "rarity": "super_rare"
+    }
+  ]
+}

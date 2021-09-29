@@ -1,0 +1,192 @@
+[
+  {
+    "dna": "02050203020402",
+    "name": "#1",
+    "description": "This is an NFT made by the coolest generative code.",
+    "image": "https://hashlips/nft/1",
+    "edition": 1,
+    "date": 1631257520770,
+    "attributes": [
+      {
+        "name": "base_head_1",
+        "rarity": "original"
+      },
+      {
+        "name": "hair_men_2",
+        "rarity": "original"
+      },
+      {
+        "name": "eye_1",
+        "rarity": "original"
+      },
+      {
+        "name": "nose_2",
+        "rarity": "original"
+      },
+      {
+        "name": "mouth_1",
+        "rarity": "original"
+      },
+      {
+        "name": "acc_head_1",
+        "rarity": "original"
+      },
+      {
+        "name": "acc_face_1",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "dna": "02040202020402",
+    "name": "#2",
+    "description": "This is an NFT made by the coolest generative code.",
+    "image": "https://hashlips/nft/2",
+    "edition": 2,
+    "date": 1631257521161,
+    "attributes": [
+      {
+        "name": "base_head_1",
+        "rarity": "original"
+      },
+      {
+        "name": "hair_men_1",
+        "rarity": "original"
+      },
+      {
+        "name": "eye_1",
+        "rarity": "original"
+      },
+      {
+        "name": "nose_1",
+        "rarity": "original"
+      },
+      {
+        "name": "mouth_1",
+        "rarity": "original"
+      },
+      {
+        "name": "acc_head_1",
+        "rarity": "original"
+      },
+      {
+        "name": "acc_face_1",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "dna": "02040203020402",
+    "name": "#3",
+    "description": "This is an NFT made by the coolest generative code.",
+    "image": "https://hashlips/nft/3",
+    "edition": 3,
+    "date": 1631257521696,
+    "attributes": [
+      {
+        "name": "base_head_1",
+        "rarity": "original"
+      },
+      {
+        "name": "hair_men_1",
+        "rarity": "original"
+      },
+      {
+        "name": "eye_1",
+        "rarity": "original"
+      },
+      {
+        "name": "nose_2",
+        "rarity": "original"
+      },
+      {
+        "name": "mouth_1",
+        "rarity": "original"
+      },
+      {
+        "name": "acc_head_1",
+        "rarity": "original"
+      },
+      {
+        "name": "acc_face_1",
+        "rarity": "original"
+      }
+    ]
+  },
+  {
+    "dna": "01020101010201",
+    "name": "#4",
+    "description": "This is an NFT made by the coolest generative code.",
+    "image": "https://hashlips/nft/4",
+    "edition": 4,
+    "date": 1631257522212,
+    "attributes": [
+      {
+        "name": "base_head_2 rare",
+        "rarity": "rare"
+      },
+      {
+        "name": "hair_hijab_1 rare",
+        "rarity": "rare"
+      },
+      {
+        "name": "eye_2 rare",
+        "rarity": "rare"
+      },
+      {
+        "name": "nose_4 rare",
+        "rarity": "rare"
+      },
+      {
+        "name": "mouth_2 rare",
+        "rarity": "rare"
+      },
+      {
+        "name": "acc_head_2 rare",
+        "rarity": "rare"
+      },
+      {
+        "name": "acc_face_2 rare",
+        "rarity": "rare"
+      }
+    ]
+  },
+  {
+    "dna": "01000000000000",
+    "name": "#5",
+    "description": "This is an NFT made by the coolest generative code.",
+    "image": "https://hashlips/nft/5",
+    "edition": 5,
+    "date": 1631257522569,
+    "attributes": [
+      {
+        "name": "base_head_2 rare",
+        "rarity": "super_rare"
+      },
+      {
+        "name": "hair_women_1 super rare",
+        "rarity": "super_rare"
+      },
+      {
+        "name": "eye_3 super rare",
+        "rarity": "super_rare"
+      },
+      {
+        "name": "nose_3 super rare",
+        "rarity": "super_rare"
+      },
+      {
+        "name": "mouth_3 super rare",
+        "rarity": "super_rare"
+      },
+      {
+        "name": "acc_head_3 super rare",
+        "rarity": "super_rare"
+      },
+      {
+        "name": "acc_face_3 super rare",
+        "rarity": "super_rare"
+      }
+    ]
+  }
+]
