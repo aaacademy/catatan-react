@@ -1,38 +1,42 @@
 {
-  "dna": "02050203020402",
+  "dna": "2f1f18b0425daf2dbb91719e3e0f85fd18787df7",
   "name": "#1",
-  "description": "This is an NFT made by the coolest generative code.",
+  "description": "Maleo NFT Description",
   "image": "https://raw.githubusercontent.com/aaacademy/catatan-react/master/assets/1.png",
   "edition": 1,
-  "date": 1631257520770,
+  "date": 1634625707393,
   "attributes": [
     {
-      "name": "base_head_1",
-      "rarity": "original"
+      "trait_type": "base-head",
+      "value": "base_head_1"
     },
     {
-      "name": "hair_men_2",
-      "rarity": "original"
+      "trait_type": "eye",
+      "value": "eye_1"
     },
     {
-      "name": "eye_1",
-      "rarity": "original"
+      "trait_type": "nose",
+      "value": "nose_3"
     },
     {
-      "name": "nose_2",
-      "rarity": "original"
+      "trait_type": "mouth",
+      "value": "mouth_1"
     },
     {
-      "name": "mouth_1",
-      "rarity": "original"
+      "trait_type": "hair",
+      "value": "hair_hijab_2"
     },
     {
-      "name": "acc_head_1",
-      "rarity": "original"
+      "trait_type": "acc-face",
+      "value": "acc_face_2"
     },
     {
-      "name": "acc_face_1",
-      "rarity": "original"
+      "trait_type": "acc-head",
+      "value": "acc_head_3"
+    },
+    {
+      "trait_type": "acc-outfit",
+      "value": "acc_outfit_2"
     }
   ]
 }

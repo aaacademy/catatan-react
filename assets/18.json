@@ -1,18 +1,18 @@
 {
-  "dna": "4c4ee97259f3df36c499ff5dca53513186b3ebf0",
-  "name": "#5",
+  "dna": "20bfc9081c10ba45eeddc543c8f099aa0f66f425",
+  "name": "#18",
   "description": "Maleo NFT Description",
-  "image": "https://raw.githubusercontent.com/aaacademy/catatan-react/master/assets/5.png",
-  "edition": 5,
-  "date": 1634625707725,
+  "image": "https://raw.githubusercontent.com/aaacademy/catatan-react/master/assets/18.png",
+  "edition": 18,
+  "date": 1634625708989,
   "attributes": [
     {
       "trait_type": "base-head",
-      "value": "base_head_1"
+      "value": "base_head_2"
     },
     {
       "trait_type": "eye",
-      "value": "eye_1"
+      "value": "eye_3"
     },
     {
       "trait_type": "nose",
@@ -24,19 +24,19 @@
     },
     {
       "trait_type": "hair",
-      "value": "hair_women_2"
+      "value": "hair_women_1"
     },
     {
       "trait_type": "acc-face",
-      "value": "acc_face_2"
+      "value": "acc_face_1"
     },
     {
       "trait_type": "acc-head",
-      "value": "acc_head_5"
+      "value": "acc_head_4"
     },
     {
       "trait_type": "acc-outfit",
-      "value": "acc_outfit_2"
+      "value": "acc_outfit_1"
     }
   ]
 }
